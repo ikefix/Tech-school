@@ -1,1 +1,1 @@
-# Tech-school
+getting started
