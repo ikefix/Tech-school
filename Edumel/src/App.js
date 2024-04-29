@@ -3,7 +3,6 @@ import './App.css';
 import React from 'react';
 import { Route, BrowserRouter,Routes} from 'react-router-dom';
 
-import HomeOne from './components/pages/Home01';
 import HomeTwo from './components/pages/Home02';
 import AboutMain from './components/pages/About';
 import CourseOne from './components/pages/CourseOne';
@@ -31,8 +30,8 @@ function App() {
       <BrowserRouter>
           <Routes>
 
-              <Route exact path={`${process.env.PUBLIC_URL + '/'}`} element={<HomeOne/>}/>
-              <Route exact path={`${process.env.PUBLIC_URL + '/home-2'}`} element={<HomeTwo/>}/>
+
+              <Route exact path={`${process.env.PUBLIC_URL + '/'}`} element={<HomeTwo/>}/>
               <Route exact path={`${process.env.PUBLIC_URL + '/about'}`} element={<AboutMain/>}/>
 
               <Route exact path={`${process.env.PUBLIC_URL + '/course-1'}`} element={<CourseOne/>}/>

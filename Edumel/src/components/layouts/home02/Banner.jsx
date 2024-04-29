@@ -10,15 +10,9 @@ class Banner extends Component {
                     <div className="row align-items-center">
                         <div className="col-md-12 col-xl-6 col-lg-6">
                             <div className="banner-content">
-                                <h1>Distant learning for further expansion </h1>
-                                <p>The ultimate planning solution for people who want to reach their personal goals Effortless comfortable.</p>
+                                <h1>OgaLearn Digital Academy </h1>
+                                <p>With Ogalearn Learning Made Easy. Our Classes is both Online and Physical</p>
                                 
-                                <div className="banner-form me-5">
-                                    <form action="#" className="form">
-                                        <input type="text" className="form-control" placeholder="What do you want to learn?"/>
-                                        <Link to="#"> Search<i className="far fa-search"></i></Link>
-                                    </form>
-                                </div>
                                <div className="category-name">
                                    <span>Popular:</span>
                                    <Link to="#">Design ,</Link>
@@ -31,7 +25,7 @@ class Banner extends Component {
             
                         <div className="col-md-12 col-xl-6 col-lg-6">
                             <div className="banner-img-round mt-5 mt-lg-0">
-                                <img src="assets/images/banner/banner_img.png" alt="" className="img-fluid"/>
+                                <img src="assets/images/banner/ogapics.jpeg" alt="" className="img-fluid"/>
                             </div>
                         </div>
                     </div>
