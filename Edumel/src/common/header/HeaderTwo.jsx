@@ -11,7 +11,7 @@ const HeaderTwo= () => {
                         <div className="row justify-content-between align-items-center">
                             <div className="col-xl-8 col-lg-8 col-sm-6">
                                 <div className="header-contact text-center text-sm-start text-lg-start">
-                                    <Link to="#">1010 Moon ave, New York, NY US</Link>
+                                    <Link to="#">N0 20 Rukpokwu market junction Port Harcourt Rivers State</Link>
                                 </div>
                             </div>
 
