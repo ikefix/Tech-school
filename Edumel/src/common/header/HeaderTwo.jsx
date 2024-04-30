@@ -34,34 +34,14 @@ const HeaderTwo= () => {
                     <div className="d-flex align-items-center justify-content-between">
                         <div className="site-logo">
                             <Link to="#">
-                                <img src={`${process.env.PUBLIC_URL}/assets/images/logo.png`} alt="Course Thumb" class="img-fluid"/>
+                                <img src={`${process.env.PUBLIC_URL}/assets/images/mylogo.png`} alt="Course Thumb" class="img-fluid"/>
                             </Link>
                         </div>
             
                         <div className="offcanvas-icon d-block d-lg-none">
                             <Link to="#" className="nav-toggler"><i className="fal fa-bars"></i></Link> 
                         </div>
-            
-                        <div className="header-category-menu d-none d-xl-block">
-                            <ul>
-                                <li className="has-submenu">
-                                    <Link to="#"><i className="fa fa-th me-2"></i>Categories</Link>
-                                    <ul className="submenu">
-                                        <li>
-                                            <Link to="#">Design</Link>
-                                            <ul className="submenu">
-                                                <li><Link to="#">Design Tools</Link></li>
-                                                <li><Link to="#">Photoshop mastering</Link></li>
-                                                <li><Link to="#">Adobe Xd Deisgn</Link></li>
-                                            </ul>
-                                        </li>
-                                        <li><Link to="#">Developemnt</Link></li>
-                                        <li><Link to="#">Marketing</Link></li>
-                                        <li><Link to="#">Freelancing</Link></li>
-                                    </ul>
-                                </li>
-                            </ul>
-                        </div>
+
             
                         <nav className="site-navbar ms-auto">
                             <Nav/>

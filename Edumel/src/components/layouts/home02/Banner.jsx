@@ -12,14 +12,6 @@ class Banner extends Component {
                             <div className="banner-content">
                                 <h1>OgaLearn Digital Academy </h1>
                                 <p>With Ogalearn Learning Made Easy. Our Classes is both Online and Physical</p>
-                                
-                               <div className="category-name">
-                                   <span>Popular:</span>
-                                   <Link to="#">Design ,</Link>
-                                   <Link to="#">Development ,</Link>
-                                   <Link to="#">Marketing ,</Link>
-                                   <Link to="#">Affiliate</Link>
-                               </div>
                             </div>
                         </div>
             
