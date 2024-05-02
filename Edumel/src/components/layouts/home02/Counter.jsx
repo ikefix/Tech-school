@@ -9,9 +9,9 @@ class Counter extends Component {
                 {
                     id: 1,
                     icon: 'flaticon-man',
-                    title: '200',
-                    suffix: 'k',
-                    text: 'Students',
+                    title: '50',
+                    suffix: '+',
+                    text: 'Mentors',
                     extraClassName: 'bg-1',
                 },
                 {
@@ -19,7 +19,7 @@ class Counter extends Component {
                     icon: 'flaticon-infographic',
                     title: '120',
                     suffix: '+',
-                    text: 'Online Courses',
+                    text: 'Project Base Learning',
                     extraClassName: 'bg-2',
                 },
                 {
@@ -42,8 +42,8 @@ class Counter extends Component {
                     <div className="row align-items-center justify-content-center" >
                         <div className="col-xl-5 pr-xl-5 col-lg-8">
                             <div className="section-heading mb-5 mb-xl-0 text-center text-xl-start">
-                                <span className="subheading">10,000+ Trusted Clients All Over The World</span>
-                                <h2 className="font-lg">Some reasons why Start Your Online Learning with Us</h2>
+                                <span className="subheading">Our students are outstanding in the Tech space and doing great.</span>
+                                <h2 className="font-lg">Reasons why you should Learn with Ogalearn Digital</h2>
                             </div>
                         </div>
 

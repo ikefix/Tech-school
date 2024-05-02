@@ -8,22 +8,22 @@ class Features extends Component {
                 {
                     id: 1,
                     icon: 'fad fa-users',
-                    title: 'Get Certificate',
-                    text: 'Lorem ipsum dolor seat ameat dui too consecteture',
+                    title: 'Join Community ',
+                    text: 'At ogalearn Community you will get access to lots of mentors and also you will meet with persons of the same interest and goal. It is a great place to be for newbies and for All.',
                     extraClassName: 'icon-bg-1',
                 },
                 {
                     id: 2,
                     icon: 'far fa-file-certificate',
                     title: 'Skilled Instructors',
-                    text: 'Lorem ipsum dolor seat ameat dui too consecteture',
+                    text: 'Our instructors are highly skilled and ready to guide you all through the journey of becoming better in your desire pursuit',
                     extraClassName: 'icon-bg-2',
                 },
                 {
                     id: 3,
                     icon: 'fa fa-video',
-                    title: 'Online Classes',
-                    text: 'Lorem ipsum dolor seat ameat dui too consecteture',
+                    title: 'Online Live Classes',
+                    text: 'Distance is never a barrier in leaning a Tech skill. Our Live class is perfect and efficient for any one seeking to acquire a Tech skill',
                     extraClassName: 'icon-bg-3',
                 },
                 

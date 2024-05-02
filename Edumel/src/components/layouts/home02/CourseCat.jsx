@@ -9,7 +9,7 @@ class CourseCat01 extends Component {
             category: [
                 {
                     id: 1,
-                    title: 'Data Science & Analytics',
+                    title: 'Data Analytics',
                     img :  'assets/images/icon/icon1.png',
                 },
                 {
@@ -63,8 +63,8 @@ class CourseCat01 extends Component {
                     <div className="row justify-content-center">
                         <div className="col-xl-8">
                             <div className="heading mb-50 text-center">
-                                <span className="subheading">Top Categories</span>
-                                <h2>Browse Courses By Category</h2>
+                                <span className="subheading">Courses Offer</span>
+                                <h2>Our Courses</h2>
                             </div>
                         </div>
                     </div>
