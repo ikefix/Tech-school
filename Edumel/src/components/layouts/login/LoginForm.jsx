@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
-import { signInWithEmailAndPassword } from 'firebase/auth';
-import firebase from 'firebase/compat/auth'
+
+
 
 
 class LoginForm extends Component {
@@ -24,7 +24,7 @@ class LoginForm extends Component {
         e.preventDefault();
         const { email, password } = this.state;
         try {
-            await signInWithEmailAndPassword(auth, email, password);
+            await signInWithEmailAndPassword( auth, email, password);
             // User successfully logged in
             // You can redirect or perform any action here
         } catch (error) {
