@@ -14,8 +14,7 @@ const FooterTwo = () => {
                                 <img src="assets/images/logo-white.png" alt="" className="img-fluid"/>
                             </div>
                             <div className="widget footer-widget mb-5 mb-lg-0">				
-                                <p>Edumel is a Bootstrap Template for online courses
-                                    education websites support multiple courses</p>
+                                <p>OgaLearn Digital is a Great Place to Learn and become great</p>
                             </div>
                         </div>
 
@@ -35,10 +34,12 @@ const FooterTwo = () => {
                             <div className="footer-widget mb-5 mb-xl-0">
                                 <h5 className="widget-title ">Categories</h5>
                                 <ul className="list-unstyled footer-links">
-                                    <li><Link to="#">SEO Business</Link></li>
+                                    <li><Link to="#">Web Development(MEARN STACK)</Link></li>
                                     <li><Link to="#">Digital Marketing</Link></li>
                                     <li><Link to="#">Graphic Design</Link></li>
-                                    <li><Link to="#">Social Marketing</Link></li>
+                                    <li><Link to="#">Cyber Security</Link></li>
+                                    <li><Link to="#">Data Analytics </Link></li>
+                                    <li><Link to="#">Mobile App Development</Link></li>
                                 </ul>
                             </div>
                         </div>

@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "title": "Competitive Strategy law for all students",
+        "title": "Web Development (MERN STACK)",
         "image": "course-01.jpg",
         "instructor": "James Carlson",
         "duration": "3h 14m 20s",
@@ -29,7 +29,7 @@
     },
     {
         "id": 2,
-        "title": "Machine Learning A-Z: Hands-On Python and java",
+        "title": "Data Analytics with Exel, Power Bi and Python",
         "image": "course-02.jpg",
         "instructor": "Nancy Phipps",
         "duration": "8h 15m 30s",
@@ -56,7 +56,7 @@
     },
     {
         "id": 3,
-        "title": "Achieving Advanced in Insights with Big",
+        "title": "Ui/Ux Design",
         "image": "course-03.jpg",
         "instructor": "Linda Bacote",
         "duration": "15h 35m 18s",
@@ -85,7 +85,7 @@
     },
     {
         "id": 4,
-        "title": "Education Makes A Person A Responsible Citizen",
+        "title": "Moblie App Development (React Native)",
         "image": "course-04.jpg",
         "instructor": "Alice McCoy",
         "duration": "25h 15m 10s",
@@ -113,7 +113,7 @@
     },
     {
         "id": 5,
-        "title": "Building A Better World One Student At A Time",
+        "title": "Cyber Security",
         "image": "course-05.jpg",
         "instructor": "James Carlson",
         "duration": "15h 35m 16s",
@@ -141,7 +141,7 @@
     },
     {
         "id": 6,
-        "title": "Education is About Forming Faithful Disciples",
+        "title": "Digital Marketing",
         "image": "course-06.jpg",
         "instructor": "Nancy Phipps",
         "duration": "26h 18m 40s",
@@ -169,7 +169,7 @@
     },
     {
         "id": 7,
-        "title": "Growing Together to Create Lifelong Learners",
+        "title": "Graphics Design (Corel Draw ,Photoshop)",
         "image": "course-04.jpg",
         "instructor": "Linda Bacote",
         "duration": "13h 38m 50s",
@@ -198,7 +198,7 @@
     },
     {
         "id": 8,
-        "title": "Education is About Preparing Students for College",
+        "title": "Web Development with Wordpress",
         "image": "course-03.jpg",
         "instructor": "Alice McCoy",
         "duration": "8h 13m 55s",

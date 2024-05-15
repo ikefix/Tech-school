@@ -15,8 +15,7 @@ const FooterOne = () => {
                                         <img src="assets/images/logo-white.png" alt="" className="img-fluid"/>
                                     </div>
                                     
-                                    <p className="mt-4">Edumel is a Bootstrap Template for online courses
-                                        education websites support multiple courses</p>
+                                    <p className="mt-4">Become great with OgaLearn Digital</p>
 
                                     <div className="footer-socials mt-5">
                                         <span className="me-2">Connect :</span>
